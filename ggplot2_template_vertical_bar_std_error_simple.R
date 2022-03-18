@@ -1,4 +1,12 @@
+#===========================================================================#
 # ggplot2_template_vertical_bar_std_error_simple.R
+#
+# Scripting for creating of a vertical bar chart with standard errors. To-do:
+# reverse order and incorporate geom_text() to demonstrate significance
+# range indicators
+#
+#===========================================================================#
+
 
 library(tidyverse)
 
